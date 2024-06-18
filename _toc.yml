@@ -2,6 +2,6 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: docs/Infovis_notebook
+root: docs/datastory
 # chapters:
 # - file: docs/notebook
