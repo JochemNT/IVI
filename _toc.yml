@@ -3,5 +3,5 @@
 
 format: jb-book
 root: docs/Infovis/Infovis_notebook
-chapters:
-- file: docs/notebook
+# chapters:
+# - file: docs/notebook
