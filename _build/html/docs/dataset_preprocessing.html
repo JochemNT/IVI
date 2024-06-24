@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Introductie &#8212; Verdeeldheid in Nederland</title>
+    <title>Dataset en preprocessing &#8212; Verdeeldheid in Nederland</title>
   
   
   
@@ -57,11 +57,12 @@
     <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'docs/introductie';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'docs/dataset_preprocessing';</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Dataset en preprocessing" href="dataset_preprocessing.html" />
+    <link rel="next" title="Verdeeldheid in Nederland" href="datastory.html" />
+    <link rel="prev" title="Introductie" href="introductie.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -124,8 +125,6 @@
       
       
       
-        
-      
       <div class="bd-sidebar-primary bd-sidebar">
         
 
@@ -142,7 +141,7 @@
 
   
 
-<a class="navbar-brand logo" href="#">
+<a class="navbar-brand logo" href="introductie.html">
   
   
   
@@ -167,14 +166,14 @@
     <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
-            <li class="toctree-l1 current active">
-                <a class="reference internal" href="#">
+            <li class="toctree-l1">
+                <a class="reference internal" href="introductie.html">
                     Introductie
                 </a>
             </li>
         </ul>
-        <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="dataset_preprocessing.html">Dataset en preprocessing</a></li>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Dataset en preprocessing</a></li>
 <li class="toctree-l1"><a class="reference internal" href="datastory.html">Verdeeldheid in Nederland</a></li>
 
 
@@ -254,7 +253,7 @@
       
       
       
-      <li><a href="https://github.com/JochemNT/IVI.git/issues/new?title=Issue%20on%20page%20%2Fdocs/introductie.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/JochemNT/IVI.git/issues/new?title=Issue%20on%20page%20%2Fdocs/dataset_preprocessing.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -284,7 +283,7 @@
       
       
       
-      <li><a href="../_sources/docs/introductie.md" target="_blank"
+      <li><a href="../_sources/docs/dataset_preprocessing.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -366,7 +365,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Introductie</h1>
+    <h1>Dataset en preprocessing</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -380,42 +379,36 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="introductie">
-<h1>Introductie<a class="headerlink" href="#introductie" title="Link to this heading">#</a></h1>
-<p><strong>Projectomschrijving</strong></p>
-<p>Ongelijkheid zorgt wereldwijd voor veel problemen, zoals armoede, lage woontevredenheid en werkloosheid. Ook in Nederland spelen ongelijkheden in de samenleving een rol bij dergelijke maatschappelijke problemen. Er bestaan verschillende meningen over de invloed van welvaart of leefomgeving op maatschappelijke kansen of geluk. Hier wordt veel over gediscussieerd en gespeculeerd, maar het is moeilijk om een directe correlatie te bewijzen tussen mogelijke oorzaken en maatschappelijke problemen. Hoe goed kan dit in kaart worden gebracht?</p>
-<p>Wij vinden dit een interessant vraagstuk. Daarom gaan we verschillende leefomstandigheden per regio in Nederland vergelijken met andere gegevens van de Nederlandse samenleving, op basis van een aantal categorieën zoals de gemiddelde verkoopprijs van een koopwoning, het hoogst behaalde onderwijsniveau en de woontevredenheid van inwoners.</p>
-<p><strong>Perspectieven</strong><br />
-Regio’s in Nederland kunnen worden opgedeeld in twee groepen: regio´s binnen de Randstad (groep 1) en regio´s buiten de randstad (groep 2). Deze groepen vertonen duidelijke verschillen, zoals bevolkingsdichtheid, infrastructuur en woningprijzen. In dit onderzoek vergelijken we deze verschillen vergelijken met de woontevredenheid van de inwoners vanuit de perspectieven van deze twee groepen.</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="dataset-en-preprocessing">
+<h1>Dataset en preprocessing<a class="headerlink" href="#dataset-en-preprocessing" title="Link to this heading">#</a></h1>
+<p><strong>Omschrijving datasets</strong></p>
 <ul class="simple">
-<li><p>Perspectief 1</p></li>
+<li><p>Dataset 1:</p></li>
 </ul>
-<p>Dit is het perspectief van groep 1 (inwoners van de Randstad), die liever in de Randstad wonen dan buiten de Randstad. Groep 1 onderbouwt dit standpunt met een aantal argumenten:</p>
-<p><em>Argument 1. Hoger inkomen:</em><br />
-Het gemiddelde inkomen per inwoner van de Randstad is hoger dan dat van buiten de Randstad. Dit biedt onder andere meer economische kansen, financiële netwerkmogelijkheden en voorzieningen (Zie ‘Mediaan persoonlijk inkomen in Nederlandse provincies &amp; gemeentes’)</p>
-<p><em>Argument 2. Hoger opgeleid:</em><br />
-De hoogst afgeronde opleiding van inwoners van de Randstad is 	hoger dan dat van mensen buiten de Randstad. Het is prettiger om tussen hoger opgeleide mensen te leven. (Zie ‘Hoogst behaalde onderwijsniveau in Nederlandse gemeentes’)</p>
-<p><em>Argument 3. Meer bedrijven:</em><br />
-In de Randstad bevinden zich meer bedrijven dan buiten de Randstad. Dit biedt meer baan- en financiële netwerkmogelijkheden. (Zie ‘Vestigingen van bedrijven in Nederlandse gemeentes’)</p>
+<p><em>Titel:</em> Vestigingen van bedrijven; bedrijfstak; gemeente (2022)<br />
+<em>Link:</em> <a class="reference external" href="https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81575NED/table?ts=1718732653537">https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81575NED/table?ts=1718732653537</a><br />
+<em>Omschrijving:</em><br />
+Deze tabel bevat gegevens over het aantal vestigingen van bedrijven naar economische activiteit, gebaseerd op de Standaard Bedrijfsindeling 2008 (SBI 2008). De vestigingen zijn voorts ingedeeld naar de gemeentelijke indeling per 1 januari van het verslagjaar. De statistieken over het thema vestigingendemografie beschrijven de regionale verdeling van de populatie van bedrijfsvestigingen in Nederland. Met behulp van deze cijfers wordt onder andere inzichtelijk gemaakt waar bedrijven in Nederland zijn gevestigd en of bepaalde bedrijfstakken in bepaalde regio’s meer voorkomen dan in andere.
+<em>Preprocessing:</em><br />
+Deze dataset is schoongemaakt door lege datapunten (de laatste twee) te verwijderen. Daarna zijn de datapunten en variabelen omgewisseld, zodat de variabelen overeenkomen met die van de andere datasets.</p>
 <ul class="simple">
-<li><p>Perspectief 2</p></li>
+<li><p>Dataset 2:</p></li>
 </ul>
-<p>Dit is het perspectief van groep 2 (inwoners Nederland buiten de Randstad), die liever buiten de Randstad wonen dan in de Randstad. Groep 2 onderbouwt dit standpunt met een aantal argumenten:</p>
-<p><em>Argument 1. Groenvoorzieningen:</em><br />
-Het aantal groenvoorzieningen buiten de Randstad is hoger dan binnen de Randstad. Dit zorgt voor een mooiere, rustiger en dus over het algemeen fijnere leefomgeving. (Visualisatie volgt…)</p>
-<p><em>Argument 2. Weinig criminaliteit:</em><br />
-Het aantal misdrijven buiten de Randstad is lager dan binnen de Randstad. Dit zorgt voor een veiliger leefomgeving. (Zie ‘Aantal misdaden per 10 000 inwoners gemeente Noord-Holland, Zuid-Holland en Flevoland’)</p>
-<p><em>Argument 3. Minder bedrijven:</em><br />
-Buiten de Randstad bevinden zich minder bedrijven dan binnen de Randstad. Dit zorgt voor meer rust en ruimte. Ook zorgt minder industrie voor een gezondere leefomgeving. (Zie ‘Vestigingen van bedrijven in Nederlandse gemeentes’)</p>
-<p>Groep N4</p>
+<p><em>Titel:</em> Bevolking; hoogstbehaald onderwijsniveau en regio (2022)<br />
+<em>Link:</em> <a class="reference external" href="https://opendata.cbs.nl/statline/#/CBS/nl/dataset/85525NED/table?ts=1718111990105">https://opendata.cbs.nl/statline/#/CBS/nl/dataset/85525NED/table?ts=1718111990105</a><br />
+<em>Omschrijving:</em><br />
+Deze tabel bevat cijfers over het hoogst behaalde onderwijsniveau van mensen van 15 tot 75 jaar die op 1 oktober van het verslagjaar in een Nederlandse gemeente stonden ingeschreven. In de tabel is de driedeling voor onderwijsniveau opgenomen en kunnen uitsplitsingen gemaakt worden naar regio. Het doel van het opleidingsniveaubestand is om voor een zo groot mogelijk deel van de Nederlanders het hoogste behaalde en hoogst gevolgde opleidingsniveau vast te leggen, zodat tal van onderzoeken kunnen worden uitgebreid met informatie over opleidingsniveau.
+<em>Preprocessing:</em><br />
+Deze dataset is schoongemaakt door lege datapunten te verwijderen. Ook is de eerste kolom (‘Bevolkingsaantal %’) verwijderd en zijn de 5 categorieën van onderwijsniveau samengevoegd tot 3 categorieën: kolom 2 en 3 zijn samengevoegd en kolom 5 en 6 zijn samengevoegd.</p>
 <ul class="simple">
-<li><p>Roemer van Kilsdonk</p></li>
-<li><p>Gijs Meuleman</p></li>
-<li><p>Kion Kramer</p></li>
-<li><p>Jochem Tinbergen</p></li>
+<li><p>Dataset 3:</p></li>
 </ul>
-<div class="toctree-wrapper compound">
-</div>
+<p><em>Titel:</em> Inkomen van personen; persoonskenmerken, regio (2022)<br />
+<em>Link:</em> <a class="reference external" href="https://opendata.cbs.nl/statline/#/CBS/nl/dataset/85712NED/table?ts=1718734295916">https://opendata.cbs.nl/statline/#/CBS/nl/dataset/85712NED/table?ts=1718734295916</a><br />
+<em>Omschrijving:</em><br />
+Deze tabel bevat gegevens over het inkomen van personen, uitgesplitst naar regio en diverse achtergrondkenmerken zoals geslacht, positie in het huishouden, leeftijd en sociaaleconomische categorie. De doelpopulatie omvat alle particuliere huishoudens met bekend inkomen. Peildatum voor de populatie is 1 januari van het verslagjaar, en peildatum voor de gemeentelijke indeling is 1 januari 2022. Het doel van deze dataset is om een beeld geven van de samenstelling en verdeling van het inkomen en vermogen van personen en huishoudens in Nederland.
+<em>Preprocessing:</em><br />
+Deze dataset is schoongemaakt door lege datapunten te verwijderen. Daarna zijn alle variabelen behalve variabele ‘Mediaan persoonlijk Inkomen’ verwijderd uit de tabel.</p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -448,12 +441,21 @@ Buiten de Randstad bevinden zich minder bedrijven dan binnen de Randstad. Dit zo
                 <footer class="prev-next-footer d-print-none">
                   
 <div class="prev-next-area">
+    <a class="left-prev"
+       href="introductie.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Introductie</p>
+      </div>
+    </a>
     <a class="right-next"
-       href="dataset_preprocessing.html"
+       href="datastory.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Dataset en preprocessing</p>
+        <p class="prev-next-title">Verdeeldheid in Nederland</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
