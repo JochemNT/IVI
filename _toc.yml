@@ -2,4 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: docs/datastory
+root: docs/introductie.md
+chapters:
+- file: docs/dataset_preprocessing.md
+- file: docs/datastory.ipynb
+- file: docs/reflectie.md
+- file: docs/samenwerking.md
