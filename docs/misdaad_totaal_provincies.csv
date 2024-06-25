@@ -1,0 +1,357 @@
+﻿Gemeente;Provincie;Verdachten per 10 000 inwoners
+Groningen;Provlos;81
+Friesland;Provlos;79
+Drenthe;Provlos;67
+Overijssel;Provlos;67
+Flevoland;Provlos;105
+Gelderland;Provlos;70
+Utrecht;Provlos;73
+Noord-Holland;Provlos;95
+Zuid-Holland;Provlos;103
+Zeeland;Provlos;82
+Noord-Brabant;Provlos;76
+Limburg;Provlos;79
+Eemsdelta;Groningen;102
+Groningen;Groningen;86
+Het Hogeland;Groningen;67
+Midden-Groningen;Groningen;83
+Oldambt;Groningen;91
+Pekela;Groningen;94
+Stadskanaal;Groningen;82
+Veendam;Groningen;73
+Westerkwartier;Groningen;58
+Westerwolde;Groningen;61
+Achtkarspelen;Friesland;91
+Ameland;Friesland;20
+Dantumadiel;Friesland;61
+De Fryske Marren;Friesland;54
+Harlingen;Friesland;83
+Heerenveen;Friesland;73
+Leeuwarden;Friesland;113
+Noardeast-Fryslân;Friesland;73
+Ooststellingwerf;Friesland;72
+Opsterland;Friesland;58
+Smallingerland;Friesland;84
+Súdwest-Fryslân;Friesland;81
+Terschelling;Friesland;55
+Tytsjerksteradiel;Friesland;58
+Vlieland;Friesland;83
+Waadhoeke;Friesland;70
+Weststellingwerf;Friesland;58
+Aa en Hunze;Drenthe;45
+Assen;Drenthe;87
+Borger-Odoorn;Drenthe;56
+Coevorden;Drenthe;53
+Emmen;Drenthe;83
+Hoogeveen;Drenthe;75
+Meppel;Drenthe;61
+Midden-Drenthe;Drenthe;54
+Noordenveld;Drenthe;56
+Tynaarlo;Drenthe;56
+Westerveld;Drenthe;49
+De Wolden;Drenthe;37
+Almelo;Overijssel;116
+Borne;Overijssel;35
+Dalfsen;Overijssel;36
+Deventer;Overijssel;82
+Dinkelland;Overijssel;32
+Enschede;Overijssel;94
+Haaksbergen;Overijssel;34
+Hardenberg;Overijssel;48
+Hellendoorn;Overijssel;26
+Hengelo;Overijssel;75
+Hof van Twente;Overijssel;41
+Kampen;Overijssel;66
+Losser;Overijssel;44
+Oldenzaal;Overijssel;50
+Olst-Wijhe;Overijssel;53
+Ommen;Overijssel;38
+Raalte;Overijssel;34
+Rijssen-Holten;Overijssel;39
+Staphorst;Overijssel;57
+Steenwijkerland;Overijssel;60
+Tubbergen;Overijssel;40
+Twenterand;Overijssel;65
+Wierden;Overijssel;35
+Zwartewaterland;Overijssel;51
+Zwolle;Overijssel;93
+Almere;Flevoland;111
+Dronten;Flevoland;58
+Lelystad;Flevoland;103
+Noordoostpolder;Flevoland;58
+Urk;Flevoland;83
+Zeewolde;Flevoland;67
+Aalten;Gelderland;36
+Apeldoorn;Gelderland;86
+Arnhem;Gelderland;121
+Barneveld;Gelderland;67
+Berg en Dal;Gelderland;63
+Berkelland;Gelderland;50
+Beuningen;Gelderland;51
+Bronckhorst;Gelderland;37
+Brummen;Gelderland;57
+Buren;Gelderland;50
+Culemborg;Gelderland;56
+Doesburg;Gelderland;69
+Doetinchem;Gelderland;86
+Druten;Gelderland;52
+Duiven;Gelderland;52
+Ede;Gelderland;74
+Elburg;Gelderland;60
+Epe;Gelderland;67
+Ermelo;Gelderland;70
+Harderwijk;Gelderland;75
+Hattem;Gelderland;50
+Heerde;Gelderland;50
+Heumen;Gelderland;64
+Lingewaard;Gelderland;47
+Lochem;Gelderland;57
+Maasdriel;Gelderland;68
+Montferland;Gelderland;50
+Neder-Betuwe;Gelderland;63
+Nijkerk;Gelderland;63
+Nijmegen;Gelderland;83
+Nunspeet;Gelderland;69
+Oldebroek;Gelderland;61
+Oost Gelre;Gelderland;54
+Oude IJsselstreek;Gelderland;45
+Overbetuwe;Gelderland;50
+Putten;Gelderland;56
+Renkum;Gelderland;61
+Rheden;Gelderland;70
+Rozendaal;Gelderland;39
+Scherpenzeel;Gelderland;55
+Tiel;Gelderland;94
+Voorst;Gelderland;57
+Wageningen;Gelderland;50
+West Betuwe;Gelderland;55
+West Maas en Waal;Gelderland;36
+Westervoort;Gelderland;62
+Wijchen;Gelderland;58
+Winterswijk;Gelderland;62
+Zaltbommel;Gelderland;65
+Zevenaar;Gelderland;57
+Zutphen;Gelderland;118
+Amersfoort;Utrecht;83
+Baarn;Utrecht;68
+De Bilt;Utrecht;53
+Bunnik;Utrecht;37
+Bunschoten;Utrecht;73
+Eemnes;Utrecht;54
+Houten;Utrecht;44
+IJsselstein;Utrecht;81
+Leusden;Utrecht;47
+Lopik;Utrecht;64
+Montfoort;Utrecht;58
+Nieuwegein;Utrecht;86
+Oudewater;Utrecht;45
+Renswoude;Utrecht;79
+Rhenen;Utrecht;58
+De Ronde Venen;Utrecht;66
+Soest;Utrecht;64
+Stichtse Vecht;Utrecht;67
+Utrecht;Utrecht;90
+Utrechtse Heuvelrug;Utrecht;61
+Veenendaal;Utrecht;62
+Vijfheerenlanden;Utrecht;71
+Wijk bij Duurstede;Utrecht;34
+Woerden;Utrecht;53
+Woudenberg;Utrecht;47
+Zeist;Utrecht;89
+Aalsmeer;Noord-Holland;72
+Alkmaar;Noord-Holland;99
+Amstelveen;Noord-Holland;72
+Amsterdam;Noord-Holland;121
+Bergen;Noord-Holland;52
+Beverwijk;Noord-Holland;97
+Blaricum;Noord-Holland;59
+Bloemendaal;Noord-Holland;67
+Castricum;Noord-Holland;63
+Diemen;Noord-Holland;99
+Dijk en Waard;Noord-Holland;76
+Drechterland;Noord-Holland;57
+Edam-Volendam;Noord-Holland;55
+Enkhuizen;Noord-Holland;77
+Gooise Meren;Noord-Holland;68
+Haarlem;Noord-Holland;103
+Haarlemmermeer;Noord-Holland;81
+Heemskerk;Noord-Holland;71
+Heemstede;Noord-Holland;71
+Heiloo;Noord-Holland;61
+Den Helder;Noord-Holland;129
+Hilversum;Noord-Holland;81
+Hollands Kroon;Noord-Holland;54
+Hoorn;Noord-Holland;88
+Huizen;Noord-Holland;63
+Koggenland;Noord-Holland;52
+Landsmeer;Noord-Holland;84
+Laren;Noord-Holland;52
+Medemblik;Noord-Holland;67
+Oostzaan;Noord-Holland;73
+Opmeer;Noord-Holland;40
+Ouder-Amstel;Noord-Holland;69
+Purmerend;Noord-Holland;97
+Schagen;Noord-Holland;62
+Stede Broec;Noord-Holland;56
+Texel;Noord-Holland;60
+Uitgeest;Noord-Holland;61
+Uithoorn;Noord-Holland;85
+Velsen;Noord-Holland;97
+Waterland;Noord-Holland;63
+Weesp;Noord-Holland;69
+Wijdemeren;Noord-Holland;53
+Wormerland;Noord-Holland;63
+Zaanstad;Noord-Holland;123
+Zandvoort;Noord-Holland;121
+Alblasserdam;Zuid-Holland;61
+Albrandswaard;Zuid-Holland;86
+Alphen aan den Rijn;Zuid-Holland;88
+Barendrecht;Zuid-Holland;67
+Bodegraven-Reeuwijk;Zuid-Holland;55
+Brielle;Zuid-Holland;68
+Capelle aan den IJssel;Zuid-Holland;99
+Delft;Zuid-Holland;84
+Dordrecht;Zuid-Holland;111
+Goeree-Overflakkee;Zuid-Holland;58
+Gorinchem;Zuid-Holland;77
+Gouda;Zuid-Holland;98
+s-Gravenhage;Zuid-Holland;148
+Hardinxveld-Giessendam;Zuid-Holland;53
+Hellevoetsluis;Zuid-Holland;83
+Hendrik-Ido-Ambacht;Zuid-Holland;52
+Hillegom;Zuid-Holland;71
+Hoeksche Waard;Zuid-Holland;58
+Kaag en Braassem;Zuid-Holland;67
+Katwijk;Zuid-Holland;64
+Krimpen aan den IJssel;Zuid-Holland;65
+Krimpenerwaard;Zuid-Holland;63
+Lansingerland;Zuid-Holland;64
+Leiden;Zuid-Holland;82
+Leiderdorp;Zuid-Holland;59
+Leidschendam-Voorburg;Zuid-Holland;94
+Lisse;Zuid-Holland;58
+Maassluis;Zuid-Holland;86
+Midden-Delfland;Zuid-Holland;45
+Molenlanden;Zuid-Holland;58
+Nieuwkoop;Zuid-Holland;57
+Nissewaard;Zuid-Holland;113
+Noordwijk;Zuid-Holland;65
+Oegstgeest;Zuid-Holland;48
+Papendrecht;Zuid-Holland;70
+Pijnacker-Nootdorp;Zuid-Holland;70
+Ridderkerk;Zuid-Holland;76
+Rijswijk;Zuid-Holland;100
+Rotterdam;Zuid-Holland;153
+Schiedam;Zuid-Holland;121
+Sliedrecht;Zuid-Holland;63
+Teylingen;Zuid-Holland;58
+Vlaardingen;Zuid-Holland;111
+Voorschoten;Zuid-Holland;59
+Waddinxveen;Zuid-Holland;66
+Wassenaar;Zuid-Holland;74
+Westland;Zuid-Holland;64
+Westvoorne;Zuid-Holland;54
+Zoetermeer;Zuid-Holland;114
+Zoeterwoude;Zuid-Holland;45
+Zuidplas;Zuid-Holland;64
+Zwijndrecht;Zuid-Holland;81
+Borsele;Zeeland;60
+Goes;Zeeland;80
+Hulst;Zeeland;84
+Kapelle;Zeeland;64
+Middelburg;Zeeland;95
+Noord-Beveland;Zeeland;82
+Reimerswaal;Zeeland;61
+Schouwen-Duiveland;Zeeland;60
+Sluis;Zeeland;72
+Terneuzen;Zeeland;96
+Tholen;Zeeland;50
+Veere;Zeeland;41
+Vlissingen;Zeeland;137
+Alphen-Chaam;Noord-Brabant;29
+Altena;Noord-Brabant;64
+Asten;Noord-Brabant;63
+Baarle-Nassau;Noord-Brabant;54
+Bergeijk;Noord-Brabant;46
+Bergen op Zoom;Noord-Brabant;88
+Bernheze;Noord-Brabant;51
+Best;Noord-Brabant;59
+Bladel;Noord-Brabant;61
+Boekel;Noord-Brabant;78
+Boxtel;Noord-Brabant;67
+Breda;Noord-Brabant;81
+Cranendonck;Noord-Brabant;57
+Deurne;Noord-Brabant;67
+Dongen;Noord-Brabant;62
+Drimmelen;Noord-Brabant;47
+Eersel;Noord-Brabant;34
+Eindhoven;Noord-Brabant;101
+Etten-Leur;Noord-Brabant;66
+Geertruidenberg;Noord-Brabant;61
+Geldrop-Mierlo;Noord-Brabant;88
+Gemert-Bakel;Noord-Brabant;69
+Gilze en Rijen;Noord-Brabant;64
+Goirle;Noord-Brabant;40
+Halderberge;Noord-Brabant;65
+Heeze-Leende;Noord-Brabant;53
+Helmond;Noord-Brabant;125
+'s-Hertogenbosch;Noord-Brabant;92
+Heusden;Noord-Brabant;67
+Hilvarenbeek;Noord-Brabant;42
+Laarbeek;Noord-Brabant;61
+Land van Cuijk;Noord-Brabant;54
+Loon op Zand;Noord-Brabant;50
+Maashorst;Noord-Brabant;79
+Meierijstad;Noord-Brabant;66
+Moerdijk;Noord-Brabant;56
+Nuenen, Gerwen en Nederwetten;Noord-Brabant;48
+Oirschot;Noord-Brabant;49
+Oisterwijk;Noord-Brabant;45
+Oosterhout;Noord-Brabant;90
+Oss;Noord-Brabant;95
+Reusel-De Mierden;Noord-Brabant;49
+Roosendaal;Noord-Brabant;89
+Rucphen;Noord-Brabant;71
+Sint-Michielsgestel;Noord-Brabant;40
+Someren;Noord-Brabant;66
+Son en Breugel;Noord-Brabant;64
+Steenbergen;Noord-Brabant;49
+Tilburg;Noord-Brabant;97
+Valkenswaard;Noord-Brabant;76
+Veldhoven;Noord-Brabant;59
+Vught;Noord-Brabant;75
+Waalre;Noord-Brabant;56
+Waalwijk;Noord-Brabant;73
+Woensdrecht;Noord-Brabant;46
+Zundert;Noord-Brabant;40
+Beek;Limburg;52
+Beekdaelen;Limburg;44
+Beesel;Limburg;38
+Bergen;Limburg;57
+Brunssum;Limburg;88
+Echt-Susteren;Limburg;82
+Eijsden-Margraten;Limburg;58
+Gennep;Limburg;82
+Gulpen-Wittem;Limburg;47
+Heerlen;Limburg;146
+Horst aan de Maas;Limburg;48
+Kerkrade;Limburg;109
+Landgraaf;Limburg;78
+Leudal;Limburg;52
+Maasgouw;Limburg;61
+Maastricht;Limburg;78
+Meerssen;Limburg;45
+Mook en Middelaar;Limburg;45
+Nederweert;Limburg;33
+Peel en Maas;Limburg;38
+Roerdalen;Limburg;60
+Roermond;Limburg;98
+Simpelveld;Limburg;51
+Sittard-Geleen;Limburg;91
+Stein;Limburg;61
+Vaals;Limburg;49
+Valkenburg aan de Geul;Limburg;58
+Venlo;Limburg;96
+Venray;Limburg;96
+Voerendaal;Limburg;40
+Weert;Limburg;75
