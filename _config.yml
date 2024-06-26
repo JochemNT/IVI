@@ -26,6 +26,9 @@ html:
   use_issues_button: true
   use_repository_button: true
 
+jupyter:
+  hide-input: true
+
 # Add launch buttons
 launch_buttons:
   binderhub_url: ""
