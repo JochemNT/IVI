@@ -1,4 +1,4 @@
-## Reflection
+## Reflectie
 
 De feedback die wij hebben mogen ontvangen van zowel onze TA, als van medestudenten en onzelf, waren erg waardevol. Hierdoor wisten wij redelijk snel de knoop door te hakken bij moeilijke beslissingen en hadden wij een goed beeld wat van ons verwacht werd. Verder kregen wij door onze TA nuttige perspectieven op ons onderwerp aangeboden waardoor wij ons idee konden verduidelijken. Na het presenteren van ons onderwerp aan de TA en medestudenten in week 3, kregen wij de volgende verbeterpunten opgelegd:
 
