@@ -1,6 +1,6 @@
 # Dataset en preprocessing
 
-Nadat we ons onderwerp hebben gekozen gingen we ieder opzoek naar relevante datasets. Omdat we vaak uitkwamen op datasets van het Centraal Bureau van de Statistiek (CBS), hebben we besloten om al onze datasets van deze website te halen.
+Nadat we ons onderwerp hebben gekozen gingen we ieder opzoek naar relevante datasets. Omdat we vaak uitkwamen op datasets van het [Centraal Bureau van de Statistiek (CBS)](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/provincies), hebben we besloten om al onze datasets van deze website te halen.
 
 ## Schoonmaken van de datasets
 
@@ -9,8 +9,6 @@ De website van het CBS heeft bij elke dataset de optie om bepaalde datapunten en
 ## Beschrijving van de variabelen
 
 Gebruikte datasets met bijbehorende variabelen:
-
-### Dataset en Variabelen
 
 | Dataset                            | Variabele(n)                              |
 |------------------------------------|-------------------------------------------|
@@ -22,7 +20,6 @@ Gebruikte datasets met bijbehorende variabelen:
 | Status huwelijk per provincie      | • Gehuwd (%)<br>• Gescheiden (%)          |
 | Woontevredenheid per provincie     | • 2009<br>• 2012<br>• 2015<br>• 2018<br>• 2021 |
 
-### Soorten Variabelen
 
 | Soort variabele     | Bijbehorende variabele(n)                         |
 |---------------------|--------------------------------------------------|
