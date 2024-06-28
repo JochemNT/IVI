@@ -1,13 +1,11 @@
 # Introductie
 
-**Projectomschrijving**
-
 Ongelijkheid zorgt wereldwijd voor veel problemen, zoals armoede, lage woontevredenheid en werkloosheid. Ook in Nederland spelen ongelijkheden in de samenleving een rol bij dergelijke maatschappelijke problemen. Er bestaan verschillende meningen over de invloed van welvaart of leefomgeving op maatschappelijke kansen of geluk. Hier wordt veel over gediscussieerd en gespeculeerd, maar het is moeilijk om een directe correlatie te bewijzen tussen mogelijke oorzaken en maatschappelijke problemen. Hoe goed kan dit in kaart worden gebracht?
 
 Wij vinden dit een interessant vraagstuk. Daarom gaan we verschillende leefomstandigheden per regio in Nederland vergelijken met andere gegevens van de Nederlandse samenleving, op basis van een aantal categorieën zoals de gemiddelde verkoopprijs van een koopwoning, het hoogst behaalde onderwijsniveau en de woontevredenheid van inwoners.
 
 **Perspectieven**  
-Regio's in Nederland kunnen worden opgedeeld in twee groepen: regio´s binnen de Randstad (groep 1) en regio´s buiten de randstad (groep 2). Deze groepen vertonen duidelijke verschillen, zoals bevolkingsdichtheid, infrastructuur en woningprijzen. In dit onderzoek vergelijken we deze verschillen vergelijken met de woontevredenheid van de inwoners vanuit de perspectieven van deze twee groepen.  
+Regio's in Nederland kunnen worden opgedeeld in twee groepen: regio´s binnen de Randstad en regio´s buiten de Randstad. Deze groepen vertonen duidelijke verschillen, zoals bevolkingsdichtheid, infrastructuur en woningprijzen. In dit onderzoek vergelijken we deze verschillen vergelijken met de woontevredenheid van de inwoners vanuit de perspectieven van deze twee groepen.  
 
 
 - Perspectief 1
@@ -38,7 +36,9 @@ Het aantal misdrijven buiten de Randstad is lager dan binnen de Randstad. Dit zo
 Buiten de Randstad bevinden zich minder bedrijven dan binnen de Randstad. Dit zorgt voor meer rust en ruimte. Ook zorgt minder industrie voor een gezondere leefomgeving. (Zie 'Vestigingen van bedrijven in Nederlandse gemeentes')
 
 
-Groep N4
+[Klik hier om de data story te lezen](datastory.ipynb)
+
+**Groep N4**
 - Roemer van Kilsdonk 
 - Gijs Meuleman 
 - Kion Kramer
