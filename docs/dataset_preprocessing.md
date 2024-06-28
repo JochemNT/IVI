@@ -10,7 +10,7 @@ De website van het CBS heeft bij elke dataset de optie om bepaalde datapunten en
 
 Gebruikte datasets met bijbehorende variabelen:
 
-| Dataset                            | Variabele(n)                              |
+| Dataset                            | Variabelen                              |
 |------------------------------------|-------------------------------------------|
 | Persoonlijk inkomen per provincie  | • Mediaan inkomen                         |
 | Onderwijsniveau per provincie      | • Laag onderwijsniveau (%)<br>• Middelbaar onderwijsniveau (%)<br>• Hoog onderwijsniveau (%)  |
@@ -21,7 +21,7 @@ Gebruikte datasets met bijbehorende variabelen:
 | Woontevredenheid per provincie     | • 2009<br>• 2012<br>• 2015<br>• 2018<br>• 2021 |
 
 
-| Soort variabele     | Bijbehorende variabele(n)                         |
+| Soort variabele     | Bijbehorende variabelen                         |
 |---------------------|--------------------------------------------------|
 | Continuous / Ratio  | • Mediaan inkomen<br>• Laag onderwijsniveau (%)<br>• Middelbaar onderwijsniveau (%)<br>• Hoog onderwijsniveau (%)<br>• Totaal bos en open natuurlijk terrein (ha)<br>• Gehuwd (%)<br>• Gescheiden (%)<br>• 2009<br>• 2012<br>• 2015<br>• 2018<br>• 2021 |
 | Discrete / Ordinal  | • Industrie<br>• Landbouw<br>• Horeca<br>• Totaal bedrijven |
